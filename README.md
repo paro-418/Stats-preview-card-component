@@ -7,6 +7,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Built with](#built-with)
+  - [Links]
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 
@@ -23,6 +24,10 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+
+### Links
+-   Repository link https://github.com/paro-810/Stats-preview-card-component
 
 ### What I learned
 i learned to use media querry & flex properties.
