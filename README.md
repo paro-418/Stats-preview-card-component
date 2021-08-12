@@ -28,6 +28,7 @@ Users should be able to:
 
 ### Links
 -   Repository link https://github.com/paro-810/Stats-preview-card-component
+-   Solution link
 
 ### What I learned
 i learned to use media querry & flex properties.
